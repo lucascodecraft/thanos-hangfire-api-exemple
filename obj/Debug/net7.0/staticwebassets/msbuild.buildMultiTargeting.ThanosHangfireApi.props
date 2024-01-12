@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThanosHangfireApi.props" />
+</Project>
